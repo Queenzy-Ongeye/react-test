@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# React Jest and React-Library-Test Tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Installation
 
 In the project directory, you can run:
+
+## Project Set-up
+### `git clone`
+Clone the app fromm this url : https://github.com/Queenzy-Ongeye/react-test.git
+
+### `cd react-test`
+Sets up project in local machine.
 
 ### `npm start`
 
@@ -44,3 +49,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Owner: 
+Queenzy Ong'eye
